@@ -38,7 +38,7 @@ const projects = [
     title: "RAD Architectural Design Studio (ON-GOING)",
     description:
       "A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
-    image: "/RADArchitectural.jpg",
+    image: "/RADArchitectural.JPG",
     technologies: ["Next.js", "Express.js",  "PostgreSQL" ],
     githubUrl: "https://github.com/yourusername/taskmanager",
     liveUrl: "https://your-taskmanager-demo.com",
@@ -71,7 +71,7 @@ const projects = [
     title: "Airline Booking System (ON-GOING)",
     description:
       "Conceptual design showcasing an intuitive UI for flight search, seat selection, and booking confirmation, focusing on user experience and workflow efficiency.",
-    image: "/AirlineBooking.jpg",
+    image: "/AirlineBooking.JPG",
     technologies: ["CSS", "JavaScript", "HTML", "MongoDB", "Express.js", "Node.js"],
     githubUrl: "https://github.com/AlvinJohnB/MCP-Side-Project",
     liveUrl: "https://alvinjohnb.github.io/MCP-Side-Project/index.html",
