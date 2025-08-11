@@ -27,10 +27,10 @@ const projects = [
     title: "E-commerce Platform (ON-GOING)",
     description:
       "A full-stack e-commerce solution with React, Node.js, and MongoDB. Features include user authentication, payment processing, and admin dashboard.",
-    image: "/E-Commerce.JPG?height=300&width=500&text=E-commerce+Platform",
+    image: "/placeholder.svg?height=300&width=500&text=E-commerce+Platform",
     technologies: ["React", "Node.js", "MongoDB", "CSS"],
-    githubUrl: "https://github.com/krishfab/E-Commerce-Full-Stack",
-    liveUrl: "http://zuitt-bootcamp-prod-551-8849-fabonan.s3-website.us-east-1.amazonaws.com/",
+    githubUrl: "https://github.com/krishfab/E-Commerce-Full-Stack.com",
+    liveUrl: "http://zuitt-bootcamp-prod-551-8849-fabonan.s3-website.us-east-1.amazonaws.com",
     featured: true,
   },
   {
