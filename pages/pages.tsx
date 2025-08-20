@@ -30,7 +30,7 @@ const projects = [
     image: "/placeholder.svg?height=300&width=500&text=E-commerce+Platform",
     technologies: ["React", "Node.js", "MongoDB", "CSS"],
     githubUrl: "https://github.com/krishfab/E-Commerce-Full-Stack.com",
-    liveUrl: "http://zuitt-bootcamp-prod-551-8849-fabonan.s3-website.us-east-1.amazonaws.com",
+    liveUrl: "http://zuitt-bootcamp-prod-551-8849-fabonan.s3-website.us-east-1.amazonaws.com/home",
     featured: true,
   },
   {
